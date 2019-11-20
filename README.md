@@ -13,7 +13,7 @@ import nltk
 
 nltk.download()
 
-![Image of objects](https://github.com/ashar367/Natural-language-processing-web-scrapping/blob/master/human-behaviors.png)
+![Image of objects](https://github.com/ashar367/Natural-language-processing-web-scrapping/blob/master/packages-install.PNG)
 
 
 
