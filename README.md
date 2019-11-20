@@ -11,7 +11,7 @@ pip install nltk
 ## Web page-Human behavior
 https://en.wikipedia.org/wiki/Human_behavior
 
-![Image of objects](https://github.com/ashar367/camera-control-and-image-manipulation/blob/master/image-F35-01.png)
+![Image of objects](https://github.com/ashar367/Natural-language-processing-web-scrapping/blob/master/human-behaviors.png)
 
 
 ## Web page-Wearable technology
