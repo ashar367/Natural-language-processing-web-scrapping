@@ -17,4 +17,4 @@ https://en.wikipedia.org/wiki/Human_behavior
 ## Web page-Wearable technology
 https://en.wikipedia.org/wiki/Wearable_technology
 
-![Image of objects](https://github.com/ashar367/camera-control-and-image-manipulation/blob/master/image-F35-01.png)
+![Image of objects](https://github.com/ashar367/Natural-language-processing-web-scrapping/blob/master/wearable-tech.png)
